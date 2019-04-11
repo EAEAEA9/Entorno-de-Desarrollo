@@ -39,7 +39,6 @@ public class ComparaCadena
 		if(c1>c2)
 		{
 			System.out.println("La cadena 1es mayor que la cadena2");
-
 		}
 		else if(c1==c2)
 		{
